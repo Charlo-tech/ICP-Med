@@ -18,6 +18,10 @@ This is a healthcare bot that diagnoses various symptoms a patient may have. The
 
 https://github.com/Charlo-tech/ICP-Med/assets/57678615/ad8ace49-8ef9-48fb-96d3-2781a2b162af
 
+### Future Plans
+In the long run, we are working on intergrating an emergency services button to assist in medical emergencies.
+Our token will also be used to support running the project on WEB3 and to earn tokens for frequent users.
+
 
 
 
