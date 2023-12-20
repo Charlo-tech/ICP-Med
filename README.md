@@ -16,5 +16,9 @@ This is a healthcare bot that diagnoses various symptoms a patient may have. The
 ### Video
 
 
-Uploading Health Chat - Brave 2023-12-20 18-14-53.mp4…
+https://github.com/Charlo-tech/ICP-Med/assets/57678615/ad8ace49-8ef9-48fb-96d3-2781a2b162af
+
+
+
+
 
